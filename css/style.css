@@ -1,0 +1,17 @@
+html {
+  font: 12px/150% Lato, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN','メイリオ', Meiryo,'ＭＳ Ｐゴシック', arial, helvetica, sans-serif;
+  color: #333;
+  scroll-behavior: smooth;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px
+}
